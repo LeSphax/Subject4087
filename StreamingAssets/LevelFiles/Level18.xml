@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 <LevelData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <previousLevelName>Level17</previousLevelName>
-  <nextLevelName></nextLevelName>
+  <nextLevelName>Level19</nextLevelName>
   <boardData xsi:type="EditableBoardData">
     <serializedTiles>
       <ArrayOfTileData>
